@@ -128,4 +128,4 @@ public class MainActivity extends AppCompatActivity {
         edit2.setText("");
         textResult.setText("");
     }
-}
+} 
